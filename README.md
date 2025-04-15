@@ -1,7 +1,7 @@
 This is my **first computer vision project using YOLO**, where I explored:
 
 - Real-time video processing
-- Object detection using YOLOv8
+- Person detection using YOLOv8
 - Frame-wise tracking and classification
 - Drawing custom bounding boxes
 
